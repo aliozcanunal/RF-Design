@@ -1,4 +1,4 @@
-# 8 Channel Wireless EEG
+# RF to USB Dongle
 
 **Installation of Kicad on Ubuntu**
 
